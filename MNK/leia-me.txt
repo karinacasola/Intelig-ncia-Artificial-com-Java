@@ -1,0 +1,9 @@
+Requisitos do sistema ===========================================================
+Para a execução do programa é necessário ter o Java instalado. Verifique seu sistema operacional e siga corretamente a instalação. Obs.: Para Windows é necessário  adicionar as variáveis do ambiente.
+Execução:=========================================================================
+Para execução basta digitar no terminal ou cmd : 
+primeiramente : javac MNK.java
+depois digitar: java MNK <argumento> 
+
+ex.:
+java MNK 4 4 2 3 0 1 0 0 0 1 0 0 2 0 1 0 2 0 2 2
