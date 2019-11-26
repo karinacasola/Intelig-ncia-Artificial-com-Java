@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Karina Casola 151150995
+ * @author Karina Casola
  */
 // Classe Tabuleiro - Representa o Tabuleiro no jogo.
 public class Tabuleiro {
