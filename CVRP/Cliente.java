@@ -1,6 +1,6 @@
 
 /**
- * @author Karina Casola Fernandes Matricula: 151150995
+ * @author Karina Casola Fernandes
  */
 public class Cliente {
 
