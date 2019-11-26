@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 
 /**
- * @author Karina Casola Fernandes Matricula: 151150995
+ * @author Karina Casola Fernandes
  */
 public class CVRP {
 
