@@ -1,0 +1,2 @@
+Na base de dados encontram-se os dados formatados para serem utilizados no algoritmo.
+em resultado_teste e resultado_treinamento encontram-se os valores obtidos na execução do algoritmo
